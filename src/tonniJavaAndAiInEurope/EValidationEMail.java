@@ -9,9 +9,9 @@ public class EValidationEMail {
         String email = scanner.nextLine().trim();
 
         if (email.endsWith(expectedDomain)) {
-            System.out.println("E-mail valido.");
+            System.out.println("E-mail valido");
         } else {
-            System.out.println("E-mail invalido.");
+            System.out.println("E-mail invalido");
         }
 
         scanner.close();
