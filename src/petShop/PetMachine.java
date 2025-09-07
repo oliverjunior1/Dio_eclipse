@@ -14,7 +14,7 @@ public class PetMachine {
 		
 		pet.setClean(true);
 		System.out.println("O pet " + pet.getName()+"está limpo");
-		
+	}
 	public void addWater() {
 		if (water == 30) {
 			System.out.println("A capacidade de água na máquina está no máximo.");
