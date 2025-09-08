@@ -1,6 +1,6 @@
 package herancaEPolimorfismo;
 
-public class Salesman extends Employee{
+public non-sealed class Salesman extends Employee{
 	private double percentPerSold;
 
 	public double getPercentPerSold() {
