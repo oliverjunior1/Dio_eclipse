@@ -1,6 +1,6 @@
 package herancaEPolimorfismo;
 
-public sealed abstract class Employee permits Manager, Salesman {
+public sealed class Employee permits Manager, Salesman {
 	private String code;
 	private String name;
 	private String address;
