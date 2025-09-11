@@ -1,0 +1,2 @@
+Olá, Joaquim!
+Este é um exemplo de escrita com java.io.
